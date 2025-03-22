@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arun-060
+- 👋 Hi, I’m @codinggoku
 - 👀 I’m interested in Computers and technologies releated to computer
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on any project idea.
